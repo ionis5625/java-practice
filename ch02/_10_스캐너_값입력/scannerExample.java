@@ -3,7 +3,7 @@ package ch02._10_스캐너_값입력;
 import java.util.Scanner; //java.util 내의 Scanner 패키지를 사용한다는 의미
 
 public class scannerExample {
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
         //Scanner형을 가지는 scanner 변수를 선언하고 new를 통해 생성한 객체를 scanner 변수에 대입한다.
